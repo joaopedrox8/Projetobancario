@@ -1,4 +1,4 @@
-package sistemacontrolefinanceiro.model;
+package com.example.sistemacontrolefinanceiro.model;
 
 public class Usuario {
     private String nome;
